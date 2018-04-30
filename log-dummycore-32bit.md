@@ -6,7 +6,6 @@
 ```bash
 $ sudo uck-remaster-unpack-iso namafile.iso
 $ sudo uck-remaster-unpack-rootfs 
-$ sudo uck-remaster-unpack-initrd
 $ sudo uck-remaster-chroot-rootfs
 ```
 ##### Daftar Remove
