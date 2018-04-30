@@ -43,5 +43,5 @@ sgt-puzzles
 ```
  Atau dengan cara instan berikut 
 ```bash
-$ apt remove --purge xfce4-dict atril atril-common firefox firefox-locale-en xul-ext-ubufox gigolo gparted libreoffice-common gnome-mines mousepad xfce4-notes xfce4-notes-plugin orange parole pidgin-data pidgin-otr gnome-sudoku thunderbird transmission-common xfburn ristretto sgt-launcher sgt-puzzles
+$ apt remove --purge xfce4-dict atril atril-common firefox firefox-locale-en xul-ext-ubufox gigolo gparted libreoffice-common gnome-mines mousepad xfce4-notes xfce4-notes-plugin orage parole pidgin-data pidgin-otr gnome-sudoku thunderbird transmission-common xfburn ristretto sgt-launcher sgt-puzzles
 ```
