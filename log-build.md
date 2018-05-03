@@ -23,3 +23,6 @@
  - unpack core , unpack rootfs
  - remove xfce-taskmanager
  - tambah plymouth
+ - upgrade yang diperlukan
+ - pack
+##### _testing_
