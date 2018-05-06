@@ -86,3 +86,4 @@ $ apt remove --purge xfce4-dict atril atril-common firefox firefox-locale-en xul
 - build-essential
 
 ada tambahan ? 
+add gksu https://askubuntu.com/questions/1030054/how-to-install-an-application-that-requires-gksu-package-on-ubuntu-18-04/1030066
